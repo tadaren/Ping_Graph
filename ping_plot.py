@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-matplotlibでリアルタイムプロットする例
-
-無限にsin関数をplotし続ける
-"""
-from __future__ import unicode_literals, print_function
 
 import numpy as np
 import matplotlib.pyplot as plt
